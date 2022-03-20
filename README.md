@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 0xkanento
 - 👀 Web developer
 - 🌱 python developer
-- 📫 Discord : Kanento#8123
+- 📫 Discord : Kanento#6882
 
 
 
