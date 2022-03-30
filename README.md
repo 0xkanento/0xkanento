@@ -1,6 +1,6 @@
 # ***About Me***
 - 🐍 Python Developper
-- 💻 C++ dev
+- 💻 Web dev
 - ♥️ IT lover
 - 👨‍🎓 Learn pentest
 
